@@ -1,5 +1,5 @@
-function contactCounter (){
-           console.log("hello")
+function contactCounter() {
+    console.log("hello")
 }
 
-modules.exports = contactCounter
+module.exports = contactCounter
